@@ -14,13 +14,13 @@ Final Commit: 1d34757
 - Basic level progression
 ### Work in Progress...
 - MacOS and Linux support
-- C++ Engine development
-  - Sprite batching to improve stability
+- ~~C++ Engine development~~
+  - ~~Sprite batching to improve stability~~
 - Player movement
-- Boss levels
+- ~~Boss levels~~
 - Sound effects (Coming soon)
 - Player collision 
 - Improved level progression
 - Improved gameplay
   - Ability to switch ammo types
-  - Variation of enemies
+  - ~~Variation of enemies~~
