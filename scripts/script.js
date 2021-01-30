@@ -61,7 +61,7 @@ function sound(src) {
   } 
 
 // centre point
-const centre = point(canvas.width / 2, canvas.height / 2);
+const centre = point(canvas.width >> 1, canvas.height >> 1);
 
 // game object functions: bullet, asteroid
 const bullet = (centre, vec, timer) => ({centre, vec, timer});
